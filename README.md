@@ -113,6 +113,10 @@ Hier sind einige Beispiele für die Verwendung der Anwendung:
 - **API-Schlüssel**: Stellen Sie sicher, dass Ihr OpenAI API-Schlüssel korrekt in der `.env`-Datei gespeichert ist.
 - **Abhängigkeiten**: Stellen Sie sicher, dass alle erforderlichen Abhängigkeiten installiert sind.
 
+## Weitere Infos zu Swarm
+swarm - Bildungsressourcen-Repository
+https://github.com/openai/swarm
+
 ## Lizenz
 
 Dieses Projekt ist unter der MIT-Lizenz lizenziert. Weitere Informationen finden Sie in der [LICENSE](LICENSE)-Datei.
